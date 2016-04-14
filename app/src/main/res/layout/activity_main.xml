@@ -77,10 +77,11 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/str_value"
-        android:id="@+id/textView"
+        android:text="@string/str_result"
+        android:id="@+id/text_result"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:textSize="30sp"
-        android:textColor="#ff498c" />
+        android:textColor="#ff498c"
+        android:singleLine="true" />
 </RelativeLayout>
