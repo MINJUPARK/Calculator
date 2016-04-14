@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">민주 계산기</string>
+
+    <string name="str_plus">더하기</string>
+    <string name="str_minus">빼기</string>
+    <string name="str_multiply">곱셈</string>
+    <string name="str_divide">나누기</string>
+    <string name="str_value">* 계산 결과 : </string>
+
+
+</resources>
